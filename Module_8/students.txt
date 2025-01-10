@@ -1,0 +1,13 @@
+Student List (Sorted by Name)
+===========================
+
+Name: David
+Address: david.john@csuglobal.edu
+GPA: 4.00
+
+---------------------------
+Name: George
+Address: george.hartfield@csuglobal.edu
+GPA: 3.70
+
+---------------------------
